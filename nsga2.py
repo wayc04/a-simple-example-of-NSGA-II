@@ -1,4 +1,4 @@
-# author: zhangwei
+# author: way
 # time: 2024/6/12
 
 import random
